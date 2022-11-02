@@ -23,7 +23,9 @@
 
 I am trying to become a Frontend developer.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<!--
+
+
+
 
 - 🌱 I’m currently working on JavaScript
 - ⚡ I’m currently learning React
