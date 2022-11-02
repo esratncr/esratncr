@@ -24,14 +24,6 @@
 I am trying to become a Frontend developer.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <!--
-**AybukeGrr/AybukeGrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
--->
-
 
 - 🌱 I’m currently working on JavaScript
 - ⚡ I’m currently learning React
