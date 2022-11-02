@@ -44,21 +44,10 @@ I am trying to become a Frontend developer.  <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;>
-
-
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
  
  
 </div>
 
 *************************************
-
-### 🔥 My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AybukeGrr&theme=tokyonight&hide_border=yanl%C4%B1%C5%9F)](https://git.io/streak-stats)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=AybukeGrr&show_icons=true&theme=tokyonight)
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AybukeGrr&layout=compact&theme=tokyonight" />
-</a>
